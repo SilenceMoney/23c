@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+*.gz
+*.aux
+*.log
+*.out
+*.synctex.gz
+temp_xlsx/
